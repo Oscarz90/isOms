@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 var isOms = require('./index')
 
 describe('Testing isOms', function () {

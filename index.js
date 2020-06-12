@@ -2,4 +2,4 @@ function isOms (input) {
   return input === 'oms'
 };
 
-module.exports = isOms
+module.exports = isOms;
